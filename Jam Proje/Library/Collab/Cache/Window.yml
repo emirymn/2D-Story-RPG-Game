@@ -1,0 +1,2283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/2D Dungeon PixelArt Tileset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/2D Dungeon
+      PixelArt Tileset Palette.prefab
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/2D Dungeon
+      PixelArt Tileset Palette.prefab.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Demo.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Demo/DemoScene.unity
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Demo/DemoScene.unity.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_0.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_0.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_1.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_1.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_10.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_10.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_11.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_11.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_12.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_12.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_13.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_13.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_14.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_14.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_15.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_15.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_16.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_16.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_17.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_17.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_18.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_18.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_19.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_19.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_2.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_2.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_20.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_20.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_21.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_21.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_22.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_22.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_23.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_23.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_24.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_24.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_25.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_25.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_26.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_26.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_27.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_27.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_28.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_28.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_29.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_29.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_3.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_3.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_30.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_30.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_4.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_4.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_5.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_5.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_6.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_6.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_7.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_7.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_8.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_8.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_9.asset
+    - Assets/2D Dungeon PixelArt Tileset/2D Dungeon PixelArt Tileset Palette/Sprites/Dungeon-2D-PixelArt-Tileset_9.asset.meta
+    - Assets/2D Dungeon PixelArt Tileset/Dungeon-2D-PixelArt-Tileset.png
+    - Assets/2D Dungeon PixelArt Tileset/Dungeon-2D-PixelArt-Tileset.png.meta
+    - Assets/Brackeys.meta
+    - Assets/Brackeys/2D Mega Pack.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Crafting Example.PNG
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Crafting Example.PNG.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Dungeon Puzzle Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Dungeon Puzzle Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Farm Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Farm Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gold Miner Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gold Miner Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gothic Rogue-like Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Gothic Rogue-like Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Pong Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Pong Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Retro Platformer Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Retro Platformer Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Shape Shooter Example.PNG
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Shape Shooter Example.PNG.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Stick Figure Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Stick Figure Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Top-down Arcade Example.png
+    - Assets/Brackeys/2D Mega Pack/-- Example Photos --/Top-down Arcade Example.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/ArcadeGreyBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/ArcadeGreyBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/BlueBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/BlueBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/BrickBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/BrickBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/DarkBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/DarkBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/DustyBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/DustyBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/FieldBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/FieldBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/GreenBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/SkyBackground.png
+    - Assets/Brackeys/2D Mega Pack/Backgrounds/SkyBackground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Jump.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Jump.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Astronaut/Astronaut_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Flying.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Flying.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Jump.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Jump.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton.overrideController
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton.overrideController.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Flying.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Flying.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Jump.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Jump.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Skeleton_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Animation/Detective/Detective_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/ArcadePlayer.png
+    - Assets/Brackeys/2D Mega Pack/Characters/ArcadePlayer.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Astronaut.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Astronaut.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Jump.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Jump.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Land.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Land.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Blue_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Jump.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Jump.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Land.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Land.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/Animation/BlobPlayer_Pink_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Blue.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Blue.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Pink.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Pink.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Detective.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Detective.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Brute.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Brute.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Commoner.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Commoner.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/DarkWizard.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/DarkWizard.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Dragon.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Dragon.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/LightWizard.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/LightWizard.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Princess.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Princess.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Troll.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Troll.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Miner.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Miner.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/MrPeanut.png
+    - Assets/Brackeys/2D Mega Pack/Characters/MrPeanut.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/MrPickle.png
+    - Assets/Brackeys/2D Mega Pack/Characters/MrPickle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/PongPlayer.png
+    - Assets/Brackeys/2D Mega Pack/Characters/PongPlayer.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Shoot.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Shoot.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character1/Character1_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Shoot.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Shoot.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character2/Character2_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3.controller
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Idle.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Idle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Shoot.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Shoot.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Walk.anim
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Animation/Character3/Character3_Walk.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Soldiers.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Soldiers.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/SoldiersFront.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Soldiers/SoldiersFront.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Chest.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Chest.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Head.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Head.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Limb.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Limb.png.meta
+    - Assets/Brackeys/2D Mega Pack/Characters/Wizard.png
+    - Assets/Brackeys/2D Mega Pack/Characters/Wizard.png.meta
+    - Assets/Brackeys/2D Mega Pack/Demo Scene.unity
+    - Assets/Brackeys/2D Mega Pack/Demo Scene.unity.meta
+    - Assets/Brackeys/2D Mega Pack/Effects.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.anim
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.controller
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Explosion.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.anim
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.controller
+    - Assets/Brackeys/2D Mega Pack/Effects/Animation/Fireball.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Explosion.png
+    - Assets/Brackeys/2D Mega Pack/Effects/Explosion.png.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Fireball.png
+    - Assets/Brackeys/2D Mega Pack/Effects/Fireball.png.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash1.png
+    - Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash1.png.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash2.png
+    - Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash3.png
+    - Assets/Brackeys/2D Mega Pack/Effects/Muzzleflash3.png.meta
+    - Assets/Brackeys/2D Mega Pack/Effects/PixelParticle.png
+    - Assets/Brackeys/2D Mega Pack/Effects/PixelParticle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/AlienSpaceship.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Bullet.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Bullet.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Canon.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Canon.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Crow.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Crow.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/FireheadEnemy.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/FireheadEnemy.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy01.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy01.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy02.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy02.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Gothic/GothicEnemy03.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle.anim
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle_0.controller
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/Beetle/Beetle_0.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.anim
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.controller
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Animation/GiantBeetle/GiantBeetle.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Beetle.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/Beetle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/GiantBeetle.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/Insects/GiantBeetle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Enemies/SpikyBall.png
+    - Assets/Brackeys/2D Mega Pack/Enemies/SpikyBall.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Arcade.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Arcade/Maze.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Arcade/Maze.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame1.png
+    - Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame1.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame2.png
+    - Assets/Brackeys/2D Mega Pack/Environment/DungeonFrame2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Barrel.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Barrel.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/DirtRow.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/DirtRow.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Left.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Left.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Mid.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Mid.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Right.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Dirt_Right.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/ExtraDirt.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/ExtraDirt.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/TableLog.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/TableLog.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/TrashCan.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/TrashCan.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Truck.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Farming/Truck.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Grass.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Grass.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Ground.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Ground.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Pyramids.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gold Miner/Pyramids.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp_NoGround.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/DoorUp_NoGround.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door_NoGround.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Door_NoGround.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Gravestone.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Gravestone.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram_Activated.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Pentagram_Activated.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Room.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Room.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Stone.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Gothic/Stone.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/ApartmentLevel.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/ApartmentLevel.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/Car.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/Car.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/Road.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/Road.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/RoadTurn.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Grungy/RoadTurn.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Mountains&Platforms.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Mountains&Platforms.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Building.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Building.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Ground&Sky.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Ground&Sky.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree01.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree01.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree02.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Stick Figure-like/Tree02.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/CheckerTile.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/CheckerTile.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/GroundTile.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/GroundTile.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/HollowTile.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/HollowTile.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/PlatformerTiles.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/PlatformerTiles.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile.png.meta
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile_Down.png
+    - Assets/Brackeys/2D Mega Pack/Environment/Tiles/SpikeTile_Down.png.meta
+    - Assets/Brackeys/2D Mega Pack/Extra.meta
+    - Assets/Brackeys/2D Mega Pack/Extra/Shadow.png
+    - Assets/Brackeys/2D Mega Pack/Extra/Shadow.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Aubergine_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Potatoes_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Pumpkin_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Crops/Strawberries_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Hotwings_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Noodles_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Dead.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Dead.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Done.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Done.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Seed.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Food/Pizza_Seed.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower1.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower1.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower2.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower3.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Flower3.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Grass1.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Grass1.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss1.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss1.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss2.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Moss2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom.png.meta
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom2.png
+    - Assets/Brackeys/2D Mega Pack/Food & Plants/Vegetation/Mushroom2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueButton.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueButton.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueDoor.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/BlueDoor.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Bullet.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Bullet.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Coin.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Coin.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenButton.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenButton.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenDoor.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/GreenDoor.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Spawn.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Spawn.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Turret.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Arcade/Turret.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Coin.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Coin.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Crate.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/Crate.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable2.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Cute/DinnerTable2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.anim
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.anim.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.controller
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Animation/TV_Animated.controller.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Diamond.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Diamond.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Gold01.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Gold01.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Harpoon.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Harpoon.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Hook.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Hook.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Phone.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Phone.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/TV_Animated.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/TV_Animated.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Tape.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner/Tape.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/Skull.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/Skull.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/SoulFragment.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Gothic/SoulFragment.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/Bullet.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/Bullet.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/ShotgunShell.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/ShotgunShell.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/WoodCrate.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Grungy/WoodCrate.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Ball.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Ball.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Goal.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Goal.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/MidLine.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/MidLine.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Wall.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Minimalistic/Wall.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Castle.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Castle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coal.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coal.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coin.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Coin.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Crown.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Crown.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Diamond.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Diamond.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Earth.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Earth.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Egg.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Egg.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Enemy Army.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Enemy Army.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fire.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fire.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fireplace.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fireplace.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fish.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Fish.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Friendly Army.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Friendly Army.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Glass.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Glass.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Hat.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Hat.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Heart.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Heart.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Iron.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Iron.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Magic Egg.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Magic Egg.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/MagicEssence.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/MagicEssence.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Meat.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Meat.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Potion.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Potion.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Rock.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Rock.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sand.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sand.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Scroll.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Scroll.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sheep.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Sheep.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Slaves.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Slaves.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/TheRing.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/TheRing.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop1.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop1.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop2.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/WaterDrop2.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wood.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wood.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wool.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/Wool.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/World Ender.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Pixel Art/World Ender.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Humvee.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Humvee.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/MissileLauncher.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/MissileLauncher.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Tank.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Tank.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Turret.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Turret.png.meta
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Wall.png
+    - Assets/Brackeys/2D Mega Pack/Items & Icons/Stick Figure-like/Wall.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue_Wide.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Blue_Wide.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Outline.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Outline.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink_Wide.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Pink_Wide.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored_Wide.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Uncolored_Wide.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Blue.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Blue.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Pink.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Pink.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Uncolored.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Uncolored.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood_Small.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Vertical_Wood_Small.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood.png.meta
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood_Wide.png
+    - Assets/Brackeys/2D Mega Pack/Platforms/Platform_Wood_Wide.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Arrow.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Arrow.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Circle.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Circle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Diamond.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Diamond.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/LargeRing.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/LargeRing.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/LargeSquare.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/LargeSquare.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Ring.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Ring.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Square.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Square.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Sugar.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Sugar.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/Triangle.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/Triangle.png.meta
+    - Assets/Brackeys/2D Mega Pack/Shapes/X.png
+    - Assets/Brackeys/2D Mega Pack/Shapes/X.png.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Click.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Click.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Explosion.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Hit.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Shot.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Spawn.wav.meta
+    - Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav
+    - Assets/Brackeys/2D Mega Pack/Sounds/Whoosh.wav.meta
+    - Assets/Brackeys/2D Mega Pack/UI.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Arrow.png
+    - Assets/Brackeys/2D Mega Pack/UI/Arrow.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Shoot.png
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Shoot.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors/YellowCursor.png
+    - Assets/Brackeys/2D Mega Pack/UI/Cursors/YellowCursor.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Dialogue.png
+    - Assets/Brackeys/2D Mega Pack/UI/Dialogue.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/IconBox.png
+    - Assets/Brackeys/2D Mega Pack/UI/IconBox.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/ItemFrame.png
+    - Assets/Brackeys/2D Mega Pack/UI/ItemFrame.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/ItemPoolFrame.png
+    - Assets/Brackeys/2D Mega Pack/UI/ItemPoolFrame.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/Panel.png
+    - Assets/Brackeys/2D Mega Pack/UI/Panel.png.meta
+    - Assets/Brackeys/2D Mega Pack/UI/SpeechBubble.png
+    - Assets/Brackeys/2D Mega Pack/UI/SpeechBubble.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Axe.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Axe.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Club.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Club.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/FishingRod.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/FishingRod.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Pickaxe.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Pickaxe.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Plow.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Plow.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Spear.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Spear.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Staff.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Staff.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Sword.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/Sword.png.meta
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/WateringCan.png
+    - Assets/Brackeys/2D Mega Pack/Weapons & Tools/WateringCan.png.meta
+    - Assets/Cartoon_Texture_Pack.meta
+    - Assets/Cartoon_Texture_Pack/DIRT.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Materials.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Materials/Dirt_Path.mat
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Materials/Dirt_Path.mat.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_AO.png
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Height.png
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Metallic.png
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Normal.png
+    - Assets/Cartoon_Texture_Pack/DIRT/Dirt_Path/Textures/Dirt_Path_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Base_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Base_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Base_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Base_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Base_C.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Base_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Leaves_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Leaves_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Leaves_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Materials/Grass_Dense_Tint_01_Leaves_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Base_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_01/Textures/Grass_Dense_Tint_01_Leaves_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Base_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Base_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Base_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Base_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Base_C.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Base_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Leaves_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Leaves_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Leaves_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Materials/Grass_Dense_Tint_02_Leaves_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Base_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Dense/GRASS_Dense_Tint_02/Textures/Grass_Dense_Tint_02_Leaves_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_Base.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_Base.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerBlue_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerBlue_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerBlue_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerBlue_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerPurple_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerPurple_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerPurple_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerPurple_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerRed_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerRed_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerRed_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerRed_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerYellow_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerYellow_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerYellow_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_FlowerYellow_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_Rocks.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Material/Grass_Flower_Tint_01_Rocks.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Base_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerBlue_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerPurple_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_A_metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerRed_B_metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_FlowerYellow_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_01/Texture/Grass_Flower_Tint_01_Rocks_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_Base.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_Base.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerBlue_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerBlue_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerBlue_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerBlue_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerPurple_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerPurple_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerPurple_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerPurple_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerRed_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerRed_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerRed_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerRed_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerYellow_A.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerYellow_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerYellow_B.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_FlowerYellow_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_Rocks.mat
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Material/Grass_Flower_Tint_02_Rocks.mat.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Base_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerBlue_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerPurple_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_A_metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerRed_B_metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_FlowerYellow_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_AO.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Height.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Metallic.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Normal.png
+    - Assets/Cartoon_Texture_Pack/GRASS/GRASS_Flower/GRASS_Flower_Tint_02/Texture/Grass_Flower_Tint_02_Rocks_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_A_BC_A.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_A_BC_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_A_BC_B.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_A_BC_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_B_BC_A.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_B_BC_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_B_BC_B.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Materials/Rocks_Cliff_B_BC_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_AO.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Height.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_AO.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Height.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Cliff/Textures/Rocks_Cliff_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials/Rocks_Volcanic_A.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials/Rocks_Volcanic_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials/Rocks_Volcanic_B.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials/Rocks_Volcanic_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials/Rocks_Volcanic_C.mat
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Materials/Rocks_Volcanic_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_AO.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Height.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_AO.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Height.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_AO.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Height.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROCKS/ROCKS_Volcanic/Textures/Rock_Volcanic_C_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Materials/Roof_Hay.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Materials/Roof_Hay.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Materials/UnderRoof_Hay.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Materials/UnderRoof_Hay.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/Roof_Hay_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_Hay/Textures/UnderRoof_Hay_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/Roof_RoundTile_Bump_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Materials/UnderRoof_RoundTile_Bump_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/Roof_RoundTile_Bump_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Bump/Textures/UnderRoof_RoundTile_Bump_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/Roof_RoundTile_Flat_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Materials/UnderRoof_RoundTile_Flat_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/Roof_RoundTile_Flat_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_RoundTile_Flat/Textures/UnderRoof_RoundTile_Flat_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/Roof_SquareTile_Bump_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Materials/UnderRoof_SquareTile_Bump_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/Roof_SquareTile_Bump_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Bump/Textures/UnderRoof_SquareTile_Bump_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/Roof_SquareTile_Flat_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_A.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_B.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_C.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_D.mat
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Materials/UnderRoof_SquareTile_Flat_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/Roof_SquareTile_Flat_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_AO.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Height.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Metallic.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Normal.png
+    - Assets/Cartoon_Texture_Pack/ROOF/ROOF_SquareTile_Flat/Textures/UnderRoof_SquareTile_Flat_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Materials.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Materials/Sand_Beach_Base.mat
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Materials/Sand_Beach_Base.mat.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Materials/Sand_Beach_Shell.mat
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Materials/Sand_Beach_Shell.mat.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_AO.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Height.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Metallic.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Normal.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Base_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_AO.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Height.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Metallic.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Normal.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Beach/Textures/Sand_Beach_Shell_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Materials.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Materials/Sand_Underwater_Base.mat
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Materials/Sand_Underwater_Base.mat.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Materials/Sand_Underwater_Shell.mat
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Materials/Sand_Underwater_Shell.mat.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_AO.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_Metallic.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_Normal.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_height.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Base_height.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_AO.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_Metallic.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_Normal.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_height.png
+    - Assets/Cartoon_Texture_Pack/SAND/SAND_Underwater/Textures/Sand_Underwater_Shell_height.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_A.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_B.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_C.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_D.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Materials/Wall_Brick_D.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_AO.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_A.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_A.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_B.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_B.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_C.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_C.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_D.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Basecolor_D.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Height.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Normal.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Bricks/Textures/Wall_Brick_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials/Wall_Stone_A.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials/Wall_Stone_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials/Wall_Stone_B.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials/Wall_Stone_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials/Wall_Stone_C.mat
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Materials/Wall_Stone_C.mat.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_AO.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Height.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_AO.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Height.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_AO.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Height.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Normal.png
+    - Assets/Cartoon_Texture_Pack/WALLS/WALL_Stone/Textures/Wall_Stone_C_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Materials.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Materials/Wood_Plain_A.mat
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Materials/Wood_Plain_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Materials/Wood_Plain_B.mat
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Materials/Wood_Plain_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_AO.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Height.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_AO.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Height.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Plain/Textures/Wood_Plain_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Materials.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Materials/Wood_Planks_A.mat
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Materials/Wood_Planks_A.mat.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Materials/Wood_Planks_B.mat
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Materials/Wood_Planks_B.mat.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_AO.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Height.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Normal.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_A_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_AO.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_AO.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Basecolor.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Basecolor.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Height.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Height.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Metallic.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Metallic.png.meta
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Normal.png
+    - Assets/Cartoon_Texture_Pack/WOOD/WOOD_Planks/Textures/Wood_Planks_B_Normal.png.meta
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary.meta
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Cartoon_Texture_Presentation.unity
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Cartoon_Texture_Presentation.unity.meta
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Cartoon_Texture_PresentationSettings.lighting
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Cartoon_Texture_PresentationSettings.lighting.meta
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Material_Library_Reference.png
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Material_Library_Reference.png.meta
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Presentation_Sphere.FBX
+    - Assets/Cartoon_Texture_Pack/_MaterialLibrary/Presentation_Sphere.FBX.meta
+    - Assets/Deep Caves Assets.meta
+    - Assets/Deep Caves Assets/Cave 1.meta
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg1.png
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg1.png.meta
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg2.png
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg2.png.meta
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg3.png
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg3.png.meta
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg4.png
+    - Assets/Deep Caves Assets/Cave 1/Biome1Bg4.png.meta
+    - Assets/Deep Caves Assets/Cave 1/Cave_Biome1.png
+    - Assets/Deep Caves Assets/Cave 1/Cave_Biome1.png.meta
+    - Assets/Deep Caves Assets/Cave 1/Cave_Biome1Decs.png
+    - Assets/Deep Caves Assets/Cave 1/Cave_Biome1Decs.png.meta
+    - Assets/Deep Caves Assets/Cave 2.meta
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg1.png
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg1.png.meta
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg2.png
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg2.png.meta
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg3.png
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg3.png.meta
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg4.png
+    - Assets/Deep Caves Assets/Cave 2/Biome2Bg4.png.meta
+    - Assets/Deep Caves Assets/Cave 2/Cave_Biome2.png
+    - Assets/Deep Caves Assets/Cave 2/Cave_Biome2.png.meta
+    - Assets/Deep Caves Assets/Cave 2/Cave_Biome2Decs.png
+    - Assets/Deep Caves Assets/Cave 2/Cave_Biome2Decs.png.meta
+    - Assets/Deep Caves Assets/Cave 3.meta
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg1.png
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg1.png.meta
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg2.png
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg2.png.meta
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg3.png
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg3.png.meta
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg4.png
+    - Assets/Deep Caves Assets/Cave 3/Biome3Bg4.png.meta
+    - Assets/Deep Caves Assets/Cave 3/Cave_Biome3.png
+    - Assets/Deep Caves Assets/Cave 3/Cave_Biome3.png.meta
+    - Assets/Deep Caves Assets/Cave 3/Cave_Biome3Decs.png
+    - Assets/Deep Caves Assets/Cave 3/Cave_Biome3Decs.png.meta
+    - Assets/Deep Caves Assets/Demo Scene.meta
+    - Assets/Deep Caves Assets/Demo Scene/Cave1.unity
+    - Assets/Deep Caves Assets/Demo Scene/Cave1.unity.meta
+    - Assets/Martial Hero.meta
+    - Assets/Martial Hero/Animations.meta
+    - Assets/Martial Hero/Animations/Martial Hero.anim
+    - Assets/Martial Hero/Animations/Martial Hero.anim.meta
+    - Assets/Martial Hero/Animations/Martial Hero.controller
+    - Assets/Martial Hero/Animations/Martial Hero.controller.meta
+    - Assets/Martial Hero/Demo.meta
+    - Assets/Martial Hero/Demo/Scene Demo.unity
+    - Assets/Martial Hero/Demo/Scene Demo.unity.meta
+    - Assets/Martial Hero/License.txt
+    - Assets/Martial Hero/License.txt.meta
+    - Assets/Martial Hero/Sprites.meta
+    - Assets/Martial Hero/Sprites/Attack1.png
+    - Assets/Martial Hero/Sprites/Attack1.png.meta
+    - Assets/Martial Hero/Sprites/Attack1_0.controller
+    - Assets/Martial Hero/Sprites/Attack1_0.controller.meta
+    - Assets/Martial Hero/Sprites/Attack2.png
+    - Assets/Martial Hero/Sprites/Attack2.png.meta
+    - Assets/Martial Hero/Sprites/Death.png
+    - Assets/Martial Hero/Sprites/Death.png.meta
+    - Assets/Martial Hero/Sprites/Fall.png
+    - Assets/Martial Hero/Sprites/Fall.png.meta
+    - Assets/Martial Hero/Sprites/Idle.png
+    - Assets/Martial Hero/Sprites/Idle.png.meta
+    - Assets/Martial Hero/Sprites/Idle_0.controller
+    - Assets/Martial Hero/Sprites/Idle_0.controller.meta
+    - Assets/Martial Hero/Sprites/Jump.png
+    - Assets/Martial Hero/Sprites/Jump.png.meta
+    - Assets/Martial Hero/Sprites/Materials.meta
+    - Assets/Martial Hero/Sprites/Materials/Idle.mat
+    - Assets/Martial Hero/Sprites/Materials/Idle.mat.meta
+    - Assets/Martial Hero/Sprites/Run.png
+    - Assets/Martial Hero/Sprites/Run.png.meta
+    - Assets/Martial Hero/Sprites/Take Hit - white silhouette.png
+    - Assets/Martial Hero/Sprites/Take Hit - white silhouette.png.meta
+    - Assets/Martial Hero/Sprites/Take Hit - white silhouette_0.controller
+    - Assets/Martial Hero/Sprites/Take Hit - white silhouette_0.controller.meta
+    - Assets/Martial Hero/Sprites/Take Hit.png
+    - Assets/Martial Hero/Sprites/Take Hit.png.meta
+    - "Assets/Martial Hero/Sprites/d\xFCz duru\u015F anim.anim"
+    - "Assets/Martial Hero/Sprites/d\xFCz duru\u015F anim.anim.meta"
+    - "Assets/Martial Hero/Sprites/sald\u0131r\u0131.anim"
+    - "Assets/Martial Hero/Sprites/sald\u0131r\u0131.anim.meta"
+    - Assets/Martial Hero/Sprites/takehit.anim
+    - Assets/Martial Hero/Sprites/takehit.anim.meta
+    - Assets/Plugins.meta
+    - Assets/Plugins/GitHub.meta
+    - Assets/Plugins/GitHub/Editor.meta
+    - Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    - Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    - Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    - Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    - Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    - Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    - Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    - Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    - Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    - Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    - Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    - Assets/Plugins/GitHub/Editor/System.Threading.dll
+    - Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    - Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    - Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    - Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    - Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    - Assets/Plugins/GitHub/Editor/credits.txt
+    - Assets/Plugins/GitHub/Editor/credits.txt.meta
+    - Assets/Plugins/GitHub/Editor/eula.txt
+    - Assets/Plugins/GitHub/Editor/eula.txt.meta
+    - Assets/Plugins/GitHub/Editor/libsfw.bundle
+    - Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    - Assets/Plugins/GitHub/Editor/libsfw.so
+    - Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    - Assets/Plugins/GitHub/Editor/sfw.net.dll
+    - Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    - Assets/Plugins/GitHub/Editor/x64.meta
+    - Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    - Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    - Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    - Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    - Assets/Plugins/GitHub/Editor/x86.meta
+    - Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    - Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    - Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    - Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/karakterhareket.cs
+    - Assets/Scripts/karakterhareket.cs.meta
+    - Assets/TooCubeForest.meta
+    - Assets/TooCubeForest/backgrounds.meta
+    - Assets/TooCubeForest/backgrounds/BG_cave2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_cave2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_cave_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_cave_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_desert_night2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_desert_night2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_desert_night_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_desert_night_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_desert_noon2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_desert_noon2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_desert_noon_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_desert_noon_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_desert_sunset2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_desert_sunset2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_desert_sunset_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_desert_sunset_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_mountains_night2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_mountains_night2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_mountains_night_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_mountains_night_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_mountains_noon2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_mountains_noon2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_mountains_noon_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_mountains_noon_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_mountains_sunset2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_mountains_sunset2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_mountains_sunset_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_mountains_sunset_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_volcano2_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_volcano2_1024.png.meta
+    - Assets/TooCubeForest/backgrounds/BG_volcano_1024.png
+    - Assets/TooCubeForest/backgrounds/BG_volcano_1024.png.meta
+    - Assets/TooCubeForest/demoScenes.meta
+    - Assets/TooCubeForest/demoScenes/Movement.cs
+    - Assets/TooCubeForest/demoScenes/Movement.cs.meta
+    - Assets/TooCubeForest/demoScenes/demo.unity
+    - Assets/TooCubeForest/demoScenes/demo.unity.meta
+    - Assets/TooCubeForest/images.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall).png
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall).png.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall)_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall)_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall)_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall)_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall)_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(fall)_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice).png
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice).png.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice)_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice)_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice)_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice)_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice)_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(ice)_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow).png
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow).png.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow)_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow)_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow)_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow)_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow)_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(snow)_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring).png
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring).png.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring)_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring)_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring)_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring)_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring)_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(spring)_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer).png
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer).png.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer)_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer)_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer)_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer)_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer)_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_covers(summer)_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_fragileBlocks_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)01_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(fall)02_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(summer)01_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_leaves(winter)01_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01.png
+    - Assets/TooCubeForest/images/Forest_deco_plants01.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants01_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants01_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants01_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants01_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01_4.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants01_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants01_5.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants01_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants02.png
+    - Assets/TooCubeForest/images/Forest_deco_plants02.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants02_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants02_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants02_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants02_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants02_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants02_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_plants02_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_plants02_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs.png
+    - Assets/TooCubeForest/images/Forest_deco_signs.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_10.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_10.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_11.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_11.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_4.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_5.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_6.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_6.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_7.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_7.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_8.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_8.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_signs_9.asset
+    - Assets/TooCubeForest/images/Forest_deco_signs_9.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones01_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones02_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px.png
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_stones03_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees.png
+    - Assets/TooCubeForest/images/Forest_deco_trees.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_trees_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_trees_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_trees_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_trees_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees_4.asset
+    - Assets/TooCubeForest/images/Forest_deco_trees_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_trees_5.asset
+    - Assets/TooCubeForest/images/Forest_deco_trees_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns.png
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_10.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_10.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_11.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_11.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_4.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_5.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_6.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_6.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_7.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_7.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_8.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_8.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_9.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenThorns_9.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms.png
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms.png.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_0.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_1.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_2.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_3.asset
+    - Assets/TooCubeForest/images/Forest_deco_woodenWalls_platforms_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_blue_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_ice_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_dirt_snow_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_ice_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_4.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_4.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_5.asset
+    - Assets/TooCubeForest/images/Forest_terrain_gray_snow_128px_5.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_red_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_blue_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_red_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood01_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_slope_wood02_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood01_128px_3.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px.png
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px.png.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_0.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_0.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_1.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_1.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_2.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_2.asset.meta
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_3.asset
+    - Assets/TooCubeForest/images/Forest_terrain_wood02_128px_3.asset.meta
+    - Assets/TooCubeForest/images/nemo_sprite.png
+    - Assets/TooCubeForest/images/nemo_sprite.png.meta
+    - Assets/TooCubeForest/tileMaps.meta
+    - Assets/TooCubeForest/tileMaps/TCF_decorations.prefab
+    - Assets/TooCubeForest/tileMaps/TCF_decorations.prefab.meta
+    - Assets/TooCubeForest/tileMaps/TCF_mapTiles.prefab
+    - Assets/TooCubeForest/tileMaps/TCF_mapTiles.prefab.meta
+    - Assets/TooCubeForest/userInstruction.meta
+    - Assets/TooCubeForest/userInstruction/UserIntroduction_TCF.pdf
+    - Assets/TooCubeForest/userInstruction/UserIntroduction_TCF.pdf.meta
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
